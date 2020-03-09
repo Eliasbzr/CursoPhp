@@ -1,0 +1,15 @@
+Curso PHP
+
+
+' GIT é utilizado para controle de Versão _
+'a pasta é utilizada como um repositorio local para os arquivos antes de subirmos online
+'deve ser criado sempre com o comando "Git Bash Here"
+
+'* COMANDOS Git*'
+'	* git init = para transformar a pasta em um diretorio git
+'	* git add "nome do arquivo e extençao = para deixa-lo na area de espera
+'	* git add --all = deixa todos os arquivos da pasta na area de espera
+'	* git commit -m = para comentar as mudancas feitas
+
+
+
